@@ -1,0 +1,46 @@
+#626F47
+#F2EED7
+#FEFAE0
+#798645
+#FFDFD6
+#E3A5C7
+#B692C2
+#694F8E
+#C9DB91
+#3B512D
+#45B3A6
+#196C7E
+#4C8DAD
+
+.content {
+    width: 50%;
+    transition: all 0.7s ease-in 0s;
+     animation: fadeInUp 1.4s forwards;
+}
+
+.content h1 {
+    font-family: Protest Revolution, sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: left;
+    transition: all 0.7s ease-in 0s;
+}
+
+.content h3 {
+    font-size: 30px;
+    font-weight: 550;
+    color: black;
+}
+
+.glass-container {
+      width: 100%;
+      max-width: 1000px;
+      padding: 100px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 15px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      color: white;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+    }
